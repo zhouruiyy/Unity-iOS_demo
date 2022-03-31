@@ -1,2 +1,1 @@
 UnityProject/iOSBuild/Libraries/libiPhone-lib.a filter=lfs diff=lfs merge=lfs -text
-libiPhone-lib.a filter=lfs diff=lfs merge=lfs -text
